@@ -1,0 +1,28 @@
+.wall{
+    box-shadow: 0 0 10px #0000003b;
+    height: 100%;
+    width: 100%;
+    padding: 3%;
+}
+.content{
+    height: fit-content;
+}
+.text{
+    cursor: move;
+    white-space: pre-line;
+    /*text-align: center;*/
+}
+
+
+.k-button{
+    width: 50px !important;
+    height: 50px !important;
+}
+
+.k-icon{
+    font-size: 30px;
+}
+
+.k-textarea{
+    box-shadow: 0 0 10px #0000003b !important;
+}
