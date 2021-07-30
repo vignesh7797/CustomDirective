@@ -10,6 +10,8 @@
 .text{
     cursor: move;
     white-space: pre-line;
+    max-height: 100%;
+    overflow: auto;
     /*text-align: center;*/
 }
 
